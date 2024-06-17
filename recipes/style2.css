@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(185, 254, 234);
+}
+
+h1 {
+    font-size: 75px;
+    font-weight: bold;
+    text-align: center;
+    font-family: Courier, monospace;
+    color: rgb(229, 127, 255);
+}
+
+h3 {
+    font-size: 40px;
+    text-align: center;
+    font-family: Courier, monospace;
+    color: rgb(229, 127, 255);
+}
+
+img {
+    height: 350px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h5 {
+    font-size: 20px;
+    font-family: Courier, monospace;
+    color:rgb(43, 122, 226);
+
+}
